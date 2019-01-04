@@ -1,7 +1,3 @@
-#Transformations project
-#Tarun Mandalapu
-#Nonlinear Dynamics- Mr. Iwanski
-#4/18/17
 import graphics
 import math
 
