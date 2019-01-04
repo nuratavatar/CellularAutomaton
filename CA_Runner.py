@@ -1,7 +1,4 @@
-# JSI Graphics Lesson 2016
-# graphicsLesson2016.py
-# October 2016
-
+#  Tarun Mandalapu - 2016
 try:
     import Tkinter as tk
     import ttk
