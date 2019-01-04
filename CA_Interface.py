@@ -1,7 +1,4 @@
-#Tarun Mandalapu IFS Program
-#Nonlinear Dynamics- Mr. Iwanski
-#Spring 2017
-
+#Tarun Mandalapu 2017
 
 try:
 	import Tkinter as tk
